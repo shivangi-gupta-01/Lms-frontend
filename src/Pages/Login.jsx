@@ -46,7 +46,7 @@ const Login = () => {
 
   return (
     <HomeLayout>
-      <div className="flex overflow-x-auto items-center justify-center h-[100vh]">
+      <div className="flex overflow-x-auto items-center justify-center h-[100vh] bg-[#5a7fd7]">
         <form
           noValidate
           onSubmit={onLogin}

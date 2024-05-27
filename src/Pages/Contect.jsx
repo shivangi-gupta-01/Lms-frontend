@@ -61,7 +61,7 @@ const Contect = () => {
   return (
     <div>
       <HomeLayout>
-        <div className="flex items-center justify-center h-[100vh]">
+        <div className="flex items-center justify-center h-[100vh] bg-[#5a7fd7]">
           <form
             onSubmit={onSubmitForm}
             className="flex flex-col items-center justify-center gap-2 p-5 rounded-md text-white shadow-[0_0_10px_black] w-[22rem]"

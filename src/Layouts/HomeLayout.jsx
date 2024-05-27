@@ -36,7 +36,7 @@ const HomeLayout = ({ children }) => {
   };
 
   return (
-    <div className="min-h-[90vh]">
+    <div className="min-h-[90vh] bg-[#5a7fd7]">
       <div className="drawer absolute left-5 top-5 z-50 w-fit">
         <input className="drawer-toggle" id="my-drawer" type="checkbox" />
         <div className="drawer-content">

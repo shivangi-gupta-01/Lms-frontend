@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 const Denied = () => {
   const navigate = useNavigate();
   return (
-    <main className="h-screen w-full flex flex-col justify-center items-center bg-[#1A2238]">
+    <main className="h-screen w-full flex flex-col justify-center items-center bg-[#5a7fd7]">
       <h1 className="text-9xl font-extrabold text-white tracking-widest">
         403
       </h1>

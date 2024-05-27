@@ -14,7 +14,7 @@ const AboutUs = () => {
           <div className="flex items-center gap-5 mx-10">
             <section className="w-1/2 space-y-10">
               <h1 className="text-5xl text-yellow-500 font-semibold">
-                Affordable and qulify education
+                Affordable and Quality Education
               </h1>
               <p className="text-xl text-gray-200">
                 Our goal is to provide the affordable and quality education to
